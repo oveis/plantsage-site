@@ -1,5 +1,7 @@
 # Plantsage Privacy Policy
 
+**English** · [한국어](./privacy-ko) · [Deutsch](./privacy-de) · [Español](./privacy-es) · [Français](./privacy-fr) · [日本語](./privacy-ja) · [Português](./privacy-pt) · [中文](./privacy-zh)
+
 _Last updated: September 15, 2026_
 
 Plantsage ("the app") is operated by an individual developer ("we"). This policy explains what data the app collects, how it is used, and your choices.

@@ -1,5 +1,7 @@
 # Plantsage Support
 
+**English** · [한국어](./support-ko) · [Deutsch](./support-de) · [Español](./support-es) · [Français](./support-fr) · [日本語](./support-ja) · [Português](./support-pt) · [中文](./support-zh)
+
 Need help with Plantsage?
 
 ## Contact
