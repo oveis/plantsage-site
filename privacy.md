@@ -9,7 +9,7 @@ Plantsage ("the app") is operated by an individual developer ("we"). This policy
 | Data | Purpose | Where it goes |
 |---|---|---|
 | Garden data (beds, plants, tasks, logs, harvest records) | Sync and backup of your garden | Our server (AWS, hosted in the US) |
-| Approximate location (only while using the app) | Detect your growing zone and show local weather | Converted to a zone/coordinates; coordinates are sent to our weather provider |
+| Approximate location (only while using the app) | Detect your growing zone and show local weather | Converted to a zone; coordinates are used with Apple Weather to fetch local conditions |
 | Photos you submit for diagnosis, identification, or seed scanning | AI analysis to answer your request | Sent to our server and processed by Anthropic's Claude API; diagnosis/identification photos are not stored after processing. Journal photos you attach are stored with your journal |
 | Chat messages to the AI gardener | Generate AI responses | Processed by Anthropic's Claude API via our server |
 | Device identifier (random UUID) and, if you sign in with Apple, your Apple user ID and email | Account and sync; recognizing your subscription | Our server |
@@ -19,7 +19,7 @@ We do **not** collect advertising identifiers, we do not use analytics or tracki
 
 ## Service providers
 
-We share data only with the processors needed to run the app: Apple (sign-in, subscriptions), Amazon Web Services (hosting), Anthropic (AI processing), and OpenWeatherMap (weather, receives coordinates only).
+We share data only with the processors needed to run the app: Apple (sign-in, subscriptions, and weather via Apple Weather), Amazon Web Services (hosting), and Anthropic (AI processing).
 
 ## Retention & deletion
 
