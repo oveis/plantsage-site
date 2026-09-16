@@ -35,4 +35,4 @@ We will update this page when the policy changes and revise the date above.
 
 ## Contact
 
-- Email: jj1233@nyu.edu
+- Email: plantsage.app@gmail.com

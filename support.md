@@ -4,7 +4,7 @@ Need help with Plantsage?
 
 ## Contact
 
-- Email: jj1233@nyu.edu
+- Email: plantsage.app@gmail.com
 
 We usually reply within a few days. Please include your app version (Settings → Version) and a description of the issue.
 
